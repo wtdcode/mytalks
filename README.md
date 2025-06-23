@@ -17,6 +17,7 @@ PPT of my talks.
 - [BlackHat USA 2021](https://www.blackhat.com/us-21/arsenal/schedule/index.html#bringing-the-x-complete-re-experience-to-smart-contract-24119):[BHUSA2021.pdf](https://github.com/wtdcode/mytalks/blob/master/BHUSA2021.pdf)
 - [R2Con2021](https://rada.re/con/2021/): [r2con2021.pdf](https://github.com/wtdcode/mytalks/blob/master/r2con2021.pdf)
 - [ICSE'25](https://conf.researchr.org/details/icse-2025/icse-2025-research-track/227/SAND-Decoupling-Sanitization-from-Fuzzing-for-Low-Overhead): [SAND-ICSE25.pdf](https://github.com/wtdcode/mytalks/blob/master/SAND-ICSE25.pdf)
+- [FSE'25](https://conf.researchr.org/details/fse-2025/fse-2025-research-papers/22/Smart-Contract-Fuzzing-Towards-Profitable-Vulnerabilities): [FSE25.pdf](https://github.com/wtdcode/mytalks/blob/master/FSE25.pdf)
 
 ### Project
 
